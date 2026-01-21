@@ -1,0 +1,5 @@
+AEM_Config:
+  jnj-csb-dev:
+    Host: mr-connection-y0mlk9ac5c5.messaging.solace.cloud
+    UserId: mission-control-manager
+    UserPass: rd13j9ac9vapaakihhigbs02gd

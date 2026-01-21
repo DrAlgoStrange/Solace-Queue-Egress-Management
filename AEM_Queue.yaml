@@ -1,0 +1,4 @@
+AEM_Queue:
+  jnj-csb-dev:
+  - q/MT2/MAKE/OrderConfirmation/Update
+  - q/MT2/MAKE/OrderStatus/Update
